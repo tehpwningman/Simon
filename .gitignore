@@ -1,0 +1,15 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/WindowsFormsApplication2/bin/Debug
+/WindowsFormsApplication2/obj/Debug/TempPE
+/WindowsFormsApplication2/obj/Debug
+/WindowsFormsApplication2/Properties/Settings.settings
+/WindowsFormsApplication2/Properties/Resources.resx
+*.resx
+/WindowsFormsApplication2/Properties/Settings.Designer.cs
+*.xsc
+*.xsd
+*.xss
+/WindowsFormsApplication2/App.config
